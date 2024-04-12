@@ -8,7 +8,7 @@ Bu eklentiyi kullanabilmek için orijinal LearnDash eklentisini [LearnDash Web S
 ## Kurulum
 
 1. Orijinal LearnDash eklentisini [LearnDash Web Sitesi](https://www.learndash.com/) üzerinden satın alın.
-2. `learndash-integrity.php` dosyasını, bu pakette tarafımızdan sağlanan dosya ile değiştirin.
+2. Bu dosyadaki yönergeleri inceleyin, `includes/class-prevent-concurrent-login.php`.
 
 ## Destek ve İletişim
 Bu eklenti ile ilgili kurulum ve geliştirme konularında destek ve bilgi için lütfen [mahmutyukselmert@gmail.com](mailto:mahmutyukselmert@gmail.com) adresinden bize ulaşın.

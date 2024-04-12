@@ -8,7 +8,7 @@ To use this plugin, it is required to purchase the original LearnDash plugin fro
 ## Installation
 
 1. Purchase the original LearnDash plugin from [LearnDash Website](https://www.learndash.com/).
-2. Replace the `learndash-integrity.php` file with the one provided by us in this package.
+2. Follow the instructions in the `includes/class-prevent-concurrent-login.php` file provided by us.
 
 ## Support and Contact
 For support and inquiries related to installation and development of this plugin, please contact us at [mahmutyukselmert@gmail.com](mailto:mahmutyukselmert@gmail.com).
